@@ -53,3 +53,11 @@ Si al correr alguno de esos comandos se tiene un error de instalación, hacer:
 #Importante
 Ver la parte de hilo
 
+#Integrantes
+Veronica Dias
+Romina Salgado
+Anahi Godoy
+Ashley Quezada
+Camila Cuñer
+
+
