@@ -50,3 +50,6 @@ Si al correr alguno de esos comandos se tiene un error de instalación, hacer:
 
 - Por último, continuar desde el paso 3 comentado arriba.
 
+#Importante
+Ver la parte de hilo
+

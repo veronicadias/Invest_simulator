@@ -179,13 +179,13 @@ def consult_alarm_forever():
         time.sleep(15)
 
 
-def hilo():
+#def hilo():
     '''hilo: Se define como hilo principal a la función consult_alarm_forever()
     '''
-    hilo = threading.Thread(target=consult_alarm_forever)
-    hilo.setDaemon(True)
-    hilo.start()
+ #   hilo = threading.Thread(target=consult_alarm_forever)
+  #  hilo.setDaemon(True)
+   # hilo.start()
 
 
-hilo()
+#hilo()
 '''hilo(): se debe ejecutar al iniciar el programa'''
